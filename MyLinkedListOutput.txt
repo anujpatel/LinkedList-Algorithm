@@ -1,0 +1,6 @@
+Total Size :10
+MyLinkedList : [null->com.anuj.algorithms.Node@74a14482] -->[1->com.anuj.algorithms.Node@1540e19d] -->[2->com.anuj.algorithms.Node@677327b6] -->[3->com.anuj.algorithms.Node@14ae5a5] -->[4->com.anuj.algorithms.Node@7f31245a] -->[5->com.anuj.algorithms.Node@6d6f6e28] -->[6->com.anuj.algorithms.Node@135fbaa4] -->[7->com.anuj.algorithms.Node@45ee12a7] -->[8->com.anuj.algorithms.Node@330bedb4] -->[9->com.anuj.algorithms.Node@2503dbd3] -->[10->null]
+Node with Element 4 :3
+Node with Element 6 removed : true
+Total Size After removing Node:9
+MyLinked List After Removing Node :[null->com.anuj.algorithms.Node@74a14482] -->[1->com.anuj.algorithms.Node@1540e19d] -->[2->com.anuj.algorithms.Node@677327b6] -->[3->com.anuj.algorithms.Node@14ae5a5] -->[4->com.anuj.algorithms.Node@7f31245a] -->[5->com.anuj.algorithms.Node@135fbaa4] -->[7->com.anuj.algorithms.Node@45ee12a7] -->[8->com.anuj.algorithms.Node@330bedb4] -->[9->com.anuj.algorithms.Node@2503dbd3] -->[10->null]
